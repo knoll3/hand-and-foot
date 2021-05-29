@@ -6,7 +6,7 @@ import card from "assets/10_of_clubs.png";
 import Card from "components/Card";
 
 const ProjectSpace: React.FC = () => {
-    const BACKGROUND_COLOR = 0x272930;
+    const BACKGROUND_COLOR = 0x888888;
     const classes = useStyles();
 
     return (
